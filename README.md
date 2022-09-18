@@ -1,7 +1,7 @@
 ### Hi, I'm Kate 👋
 
 
-- 🔭 I started recently and I’m working on getting better. 
+- 🔭 I'm new here and I’m working on getting better. 
 - 🌱 I’m currently learning Algorithms.
 <!-- - 👯 I’m looking to collaborate on ... 
 - 📫 How to reach me:
